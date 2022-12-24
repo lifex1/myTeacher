@@ -13,7 +13,7 @@ const Header = () => {
               <li><Link to="/">Asosiy</Link></li>
               <li><Link to="/">Biz haqimizda</Link></li>
               <li><Link to="/">Blog</Link></li>
-              <li><Link to="/">Fikrlar</Link></li>
+              <li><Link to="https://pornhub.com">Fikrlar</Link></li>
           </ul>
           <Link to="/"><button className='btn1'>Registratsiya</button></Link>
           <Link to="/"><button className='btn2'>Kirish</button></Link>
